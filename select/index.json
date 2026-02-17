@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "暁のコドウ",
+  "base_artist": "UNCHAIN",
+  "createdAt": "2026-02-17T21:29:03.777545Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "暁のコドウ",
+      "artist": "Unchain",
+      "has_synced": true,
+      "path": "select/01_暁のコドウ_Unchain.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "暁のコドウ",
+      "artist": "Unchain",
+      "has_synced": false,
+      "path": "select/pl_01_暁のコドウ_Unchain.txt"
+    }
+  ]
+}
